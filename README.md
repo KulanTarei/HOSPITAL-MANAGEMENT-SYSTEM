@@ -1,4 +1,4 @@
-Here's a more detailed description for your resume, highlighting the specific skills and accomplishments of your hospital management system project:
+hospital management system project:
 Java-based Hospital Management System
 Developed a robust hospital management system using Java, JDBC, and Oracle SQL to streamline administrative tasks and improve patient care. Key features include:
  * Patient Management: Efficiently add, view, and manage patient records, including personal information, medical history, and appointment details.
